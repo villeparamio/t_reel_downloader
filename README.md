@@ -13,8 +13,8 @@ Este bot de Telegram descarga Reels de Instagram utilizando la librería `instal
 1. Clona este repositorio:
 
 ```sh
-   git clone https://github.com/tu_usuario/instagram-reel-downloader-bot.git
-   cd instagram-reel-downloader-bot
+git clone https://github.com/tu_usuario/instagram-reel-downloader-bot.git
+cd instagram-reel-downloader-bot
 ```
 
 2. Crea y activa un entorno virtual:
@@ -50,7 +50,7 @@ python bot.py
 Para descargar un Reel, simplemente envía el enlace del Reel de Instagram al bot. Asegúrate de que el enlace tiene el formato correcto:
 
 ```ruby
-https://www.instagram.com/reel/C5UiWfWtvEI/?igsh=eXdxZ2JjMXp3OHk3
+https://www.instagram.com/reel/C5UoipWtvEI/?igsh=eXdxmnJjMXp56Hk3
 ```
 
 ## Dependencias
